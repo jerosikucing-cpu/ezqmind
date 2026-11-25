@@ -2,7 +2,7 @@
 
 **EzQmind** adalah jasa pembuatan aplikasi custom untuk bisnis: aplikasi yang dibangun mengikuti cara kerja usaha Anda, bukan template pasaran.
 
-🌐 **Situs resmi: [ezqmind.pages.dev](https://ezqmind.pages.dev/)**
+🌐 **Situs resmi: [ezqmind.com](https://ezqmind.com/)**
 💬 **Konsultasi gratis via WhatsApp: [0819-1759-0410](https://wa.me/6281917590410)**
 
 ---
@@ -46,7 +46,7 @@ Setiap website dan aplikasi yang kami serahkan melewati pengujian keamanan berla
 
 ## Hubungi EzQmind
 
-- 🌐 Website: https://ezqmind.pages.dev/
+- 🌐 Website: https://ezqmind.com/
 - 💬 WhatsApp: https://wa.me/6281917590410
 - 📸 Instagram: [@ezqmind](https://www.instagram.com/ezqmind)
 - 🧵 Threads: [@ezqmind](https://www.threads.net/@ezqmind)
